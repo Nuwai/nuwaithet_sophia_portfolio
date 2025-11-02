@@ -12,11 +12,13 @@ Combines strong engineering background (M.Sc. Electronics, NTU Singapore) with h
 I bridge data analytics, AI engineering, and automation, developing impactful projects
 My work focuses on **applied ML**, **NLP for Burmese**, and **AI-driven social good projects**.
 
+
 ### 🧩 Key Strengths
 - End-to-end ML workflow design (data → model → deployment)
 - Statistical and exploratory data analysis
 - Model explainability and interpretability
 - Scalable text data processing
+
 
 ### ⚙️ Technical Expertise
 **Python**, **Pandas**, **Scikit-learn**, **TensorFlow**, **Power BI**, **FastAPI**, **Streamlit**, **Git**, **SQL**
@@ -64,6 +66,7 @@ Key Achievements:
 | **Software & Automation**          | mmdt-tokenizer, CI/CD Integrations          |
 | **Research & Social Impact**       | AI for Social Good, Burmese NLP Development |
 
+
 ### 🎯 Career Goal
-To build production-ready, ethical AI systems that bridge data analytics and machine learning engineering — enabling intelligent, scalable solutions for real-world challenges.
+To build production-ready, ethical AI systems that bridge data analytics and machine learning engineering; enabling intelligent, scalable solutions for real-world challenges.
 Currently focused on advancing AI adoption in emerging regions like Myanmar, with a commitment to responsible innovation, data-driven decision-making, and social impact.
