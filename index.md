@@ -12,7 +12,7 @@ title: "👋 Welcome to My Portfolio"
 ---
 
 ## 💡 About Me
-I am passionate about applying **Machine Learning, NLP, and Data Analytics** to create **impactful AI solutions** — especially for **low-resource languages like Burmese**.  
+I am passionate about applying **Machine Learning, NLP,computer vision,Data Analytics** to create **impactful AI solutions** 
 My work blends **data science, model deployment, and social good**, with hands-on experience in **end-to-end ML pipelines**, **data visualization**, and **AI research**.
 
 ### 🔍 Focus Areas
@@ -75,10 +75,23 @@ Created a lightweight, modular Burmese-English tokenization tool.
 ---
 
 ## 🌱 Currently Exploring
-- Improving **NER dataset balance** and expanding PERSON/ORG entities  
-- Researching **contextual embeddings (BERT variants)** for low-resource languages  
-- Building **ML pipelines with deployment-ready APIs**  
-- Applying **AI to social impact projects** in Southeast Asia  
+
+- **Deep Learning & Edge AI** — learning through the book  
+  *“Practical Deep Learning for Cloud, Mobile & Edge: Real-World AI & Computer Vision Projects Using Python, Keras & TensorFlow.”*  
+  Focusing on deployment optimization, transfer learning, and on-device inference.
+
+- **MLOps Fundamentals** — currently learning via  
+  [DataTalks.Club MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)  
+  Gaining hands-on experience in reproducible ML pipelines, model versioning, CI/CD, and monitoring.
+
+- **Burmese Named Entity Recognition (NER)** — ongoing development and dataset refinement for robust multilingual entity extraction.
+
+- **Kaggle Competition:** [CSIRO - Biomass Prediction Challenge](https://www.kaggle.com/competitions/csiro-biomass)  
+  Exploring **agriculture-focused AI** using **remote sensing, vegetation indices, and regression modeling** for biomass prediction.
+
+- Expanding **contextual embeddings (BERT, XLM-R)** for Burmese and improving entity coverage (PERSON, ORG, LOC).  
+- Building **end-to-end ML pipelines** with modular architecture and deployment-ready APIs.  
+- Exploring **AI for social impact** in Southeast Asia through data-driven projects.
 
 ---
 
