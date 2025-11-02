@@ -1,13 +1,14 @@
 
-🌟 Nu Wai Thet (Sophia) — Data Scientist | ML Engineer | NLP | Deep Learning | Transformers
+🌟 **Nu Wai Thet (Sophia) — Data Scientist | ML Engineer | NLP | Deep Learning | Transformers**
 
 👋 Welcome to my portfolio — a showcase of my Machine Learning, NLP, and Data Analytics projects focused on AI for social impact and low-resource language technologies.
 
 ### Explore My Work:
 🔹 📊 Featured Projects : https://nuwai.github.io/nuwaithet_sophia_portfolio/projects.html
- — End-to-end ML systems, NLP pipelines, and Power BI dashboards
+  - End-to-end ML systems, NLP pipelines, and Power BI dashboards
+ 
 🔹 👩‍💻 About ME : https://nuwai.github.io/nuwaithet_sophia_portfolio/about.html
- — My background, skills, and current learning journey
+  - My background, skills, and current learning journey
 
 ### 💡 Areas of Focus:
 
