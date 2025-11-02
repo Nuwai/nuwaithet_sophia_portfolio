@@ -13,8 +13,6 @@ A collection of my analytical and AI projects:
 
 ## 🔍 Currently Exploring
 
-## 🔍 Currently Exploring
-
 | Area | Description |
 |------|--------------|
 | **Deep Learning & Edge AI** | Learning through the book *“Practical Deep Learning for Cloud, Mobile & Edge: Real-World AI & Computer Vision Projects Using Python, Keras & TensorFlow.”* Focus on deployment optimization, transfer learning, and on-device inference. |
