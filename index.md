@@ -3,7 +3,7 @@ layout: home
 title: "👋 Welcome to My Portfolio"
 ---
 
-# 👋 Hi, I'm **Nu Wai Thet (Sophia)**  
+# Hi, I'm **Nu Wai Thet (Sophia)**  
 **Data Scientist | AI/Machine Learning Engineer | NLP for Burmese Language | LLM Researcher**
 
 🎓 **M.Sc. in Electronics Engineering, Nanyang Technological University (NTU), Singapore**  
