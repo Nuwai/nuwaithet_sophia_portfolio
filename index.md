@@ -11,9 +11,11 @@ title: "👋 Welcome to My Portfolio"
 
 ---
 
+
 ## 💡 About Me
 I am passionate about applying **Machine Learning, NLP,computer vision,Data Analytics** to create **impactful AI solutions** 
 My work blends **data science, model deployment, and social good**, with hands-on experience in **end-to-end ML pipelines**, **data visualization**, and **AI research**.
+
 
 ### 🔍 Focus Areas
 - Natural Language Processing (NLP) & LLMs  
@@ -22,6 +24,7 @@ My work blends **data science, model deployment, and social good**, with hands-o
 - Automation, MLOps & Deployment  
 
 ---
+
 
 ## 🚀 Featured Projects
 
@@ -38,6 +41,7 @@ Developed a full ML pipeline to detect scam-related Burmese messages (19K+ sampl
 
 ---
 
+
 ### 🟢 [Women in Politics & Violence Analysis](https://github.com/Nuwai/Women_in_politics)
 > **Data Analytics | Statistical Modelling | Power BI Dashboard**
 
@@ -49,6 +53,7 @@ Studied the relationship between women’s political participation and political
 **Tech Stack:** Power BI, Pandas, Statsmodels, Data Visualization  
 
 ---
+
 
 ### 🟣 [Myanmar Named Entity Recognition (NER)](https://github.com/Nuwai/Burmese_NER)
 > **Deep Learning | Transformer Models | NLP Infrastructure**
@@ -62,6 +67,7 @@ Building an open-source Burmese NER dataset & models.
 
 ---
 
+
 ### 🟡 [mmdt-tokenizer](https://github.com/Nuwai/mmdt-tokenizer)
 > **Open Source NLP Tool | Text Tokenization**
 
@@ -74,6 +80,7 @@ Created a lightweight, modular Burmese-English tokenization tool.
 
 ---
 
+
 ### 🔵 [Deep Learning Portfolio Projects](https://github.com/Nuwai/Intro-to-Deep-Learning)
 > **Neural Networks | CNN | RNN | Model Evaluation**
 
@@ -82,6 +89,9 @@ Completed a comprehensive deep learning course with practical projects applying 
 - Designed end-to-end training pipelines: preprocessing → training → evaluation  
 - Gained experience with **hyperparameter tuning, model optimization, and visualization**  
 **Key Tools:** TensorFlow, Keras, Python, CNN, RNN, Neural Networks  
+
+---
+
 
 ## 🌱 Currently Exploring
 
@@ -103,6 +113,7 @@ Completed a comprehensive deep learning course with practical projects applying 
 - Exploring **AI for social impact** in Southeast Asia through data-driven projects.
 
 ---
+
 
 ## 📈 Skills Snapshot
 
