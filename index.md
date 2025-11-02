@@ -3,72 +3,98 @@ layout: home
 title: "👋 Welcome to My Portfolio"
 ---
 
-# Hi, I'm **Nu Wai Thet (Sophia)**  
-**Data Scientist | ML Engineer | NLP for Burmese Language | LLM**
+# 👋 Hi, I'm **Nu Wai Thet (Sophia)**  
+**Data Scientist | AI/Machine Learning Engineer | NLP for Burmese Language | LLM Researcher**
 
-
-🎓 M.Sc. in Electronics Engineering (NTU Singapore)  
+🎓 **M.Sc. in Electronics Engineering, Nanyang Technological University (NTU), Singapore**  
 📧 [nuwaithet@gmail.com](mailto:nuwaithet@gmail.com) | 🔗 [GitHub](https://github.com/Nuwai) | 💼 [LinkedIn](https://www.linkedin.com/in/nuwai-thet-sophia/)
-
-I’m passionate about applying **Machine Learning, NLP, deep learning and Data Analytics** to solve real-world problems, especially in **low-resource language contexts** like Myanmar.  
-My focus areas include:
-
-- **AI for Social Good and machine learnig** (Women in Politics, Scam Detection)
-- **Data Analytics & Visualization**
-- **Natural Language Processing (NLP) and computer vision**
-- **Automation & Deployment**
 
 ---
 
-## Featured Projects
+## 💡 About Me
+I am passionate about applying **Machine Learning, NLP, and Data Analytics** to create **impactful AI solutions** — especially for **low-resource languages like Burmese**.  
+My work blends **data science, model deployment, and social good**, with hands-on experience in **end-to-end ML pipelines**, **data visualization**, and **AI research**.
+
+### 🔍 Focus Areas
+- Natural Language Processing (NLP) & LLMs  
+- Data Analytics & Visualization  
+- AI for Social Good (Gender Equality, Scam Detection)  
+- Automation, MLOps & Deployment  
+
+---
+
+## 🚀 Featured Projects
 
 ### 💸 [Burmese Money Scam Detection](https://github.com/Nuwai/MoneyScam_in_Myanmar)
-> **NLP | ML Pipeline | Streamlit Deployment**
+> **NLP | Machine Learning | Streamlit App**
 
-Built a full machine learning pipeline to detect scam-related Burmese messages (19K+ samples).  
-- Custom preprocessing & TF-IDF + SVM model  
-- **ROC-AUC: 0.97 | F1-score: 0.89**  
-- Deployed using Streamlit  
-**Key Tools:** Python, Scikit-learn, FastText, Streamlit, Git  
+Developed a full ML pipeline to detect scam-related Burmese messages (19K+ samples).  
+- Custom text preprocessing (regex, POS tagging, syllable tokenization)  
+- TF-IDF + SVM pipeline with class imbalance handling  
+- Achieved **ROC-AUC: 0.97 | F1-score: 0.89**  
+- Deployed via Streamlit for public awareness  
+
+**Tech Stack:** Python, Scikit-learn, FastText, Streamlit  
 
 ---
 
 ### 🟢 [Women in Politics & Violence Analysis](https://github.com/Nuwai/Women_in_politics)
 > **Data Analytics | Statistical Modelling | Power BI Dashboard**
 
-Analyzed global datasets from IPU & ACLED to study violence against women in politics.  
-- Conducted hypothesis testing (Spearman, Mann–Whitney U)  
-- Created Power BI dashboard for policy insights  
-**Key Tools:** Power BI, Pandas, Statsmodels  
+Studied the relationship between women’s political participation and political violence.  
+- Merged IPU (representation) + ACLED (violence) datasets  
+- Conducted EDA, correlation analysis & hypothesis testing (Spearman, Mann–Whitney U)  
+- Built Power BI dashboard for interactive country-level insights  
+
+**Tech Stack:** Power BI, Pandas, Statsmodels, Data Visualization  
 
 ---
 
 ### 🟣 [Myanmar Named Entity Recognition (NER)](https://github.com/Nuwai/Burmese_NER)
 > **Deep Learning | Transformer Models | NLP Infrastructure**
 
-Ongoing development of a Burmese-language NER system for entity extraction.  
+Building an open-source Burmese NER dataset & models.  
 - Annotated **70K+ sentences**  
 - Models: BiLSTM-CRF, mBERT, XLM-R  
-- Developing FastAPI + Streamlit demo interface  
-**Key Tools:** TensorFlow, Transformers, Label Studio  
+- Developing inference API with **FastAPI + Streamlit demo**  
+
+**Tech Stack:** TensorFlow, Transformers, Label Studio, FastAPI  
 
 ---
 
 ### 🟡 [mmdt-tokenizer](https://github.com/Nuwai/mmdt-tokenizer)
-> **Open-Source NLP Tool | Text Tokenization**
+> **Open Source NLP Tool | Text Tokenization**
 
-Developed a Burmese tokenization module supporting mixed Burmese-English text.  
-- Implemented hybrid segmentation algorithm  
-- Modular architecture (pre/postprocessing, CSV export)  
-**Key Tools:** Python, Algorithmic NLP, Open Source Dev  
+Created a lightweight, modular Burmese-English tokenization tool.  
+- Hybrid rule-based + syllable segmentation algorithm  
+- Output export to CSV for data labeling or analysis  
+- Designed for integration with other Burmese NLP tools  
 
----
-
-## 🌱 Current Focus
-- Improving **NER dataset balance** and expanding coverage  
-- Exploring **contextual embeddings (BERT variants)** for Burmese  
-- Building end-to-end **ML pipelines for text classification and deployment**
+**Tech Stack:** Python, Regex, Algorithmic NLP  
 
 ---
 
-> 🖋️ “Building intelligent, inclusive AI systems for low-resource languages and social impact.”
+## 🌱 Currently Exploring
+- Improving **NER dataset balance** and expanding PERSON/ORG entities  
+- Researching **contextual embeddings (BERT variants)** for low-resource languages  
+- Building **ML pipelines with deployment-ready APIs**  
+- Applying **AI to social impact projects** in Southeast Asia  
+
+---
+
+## 📈 Skills Snapshot
+
+| **Category** | **Skills & Tools** |
+|---------------|--------------------|
+| **Programming** | Python, SQL, R |
+| **ML & DL** | Scikit-learn, XGBoost, TensorFlow, PyTorch |
+| **NLP** | FastText, Transformers, spaCy, SentencePiece |
+| **Data Visualization** | Power BI, Matplotlib, Seaborn |
+| **Deployment** | Streamlit, FastAPI, Docker |
+| **Version Control** | Git, GitHub |
+| **Soft Skills** | Research, Communication, Data Storytelling |
+
+---
+
+> 🖋️ *“Building intelligent, inclusive AI systems for low-resource languages and social impact.”*
+
