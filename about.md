@@ -65,4 +65,5 @@ Key Achievements:
 | **Research & Social Impact**       | AI for Social Good, Burmese NLP Development |
 
 ### 🎯 Career Goal
-To advance **AI adoption in Myanmar**, bridging data analytics and engineering to create intelligent, ethical systems that drive social progress.
+To build production-ready, ethical AI systems that bridge data analytics and machine learning engineering — enabling intelligent, scalable solutions for real-world challenges.
+Currently focused on advancing AI adoption in emerging regions like Myanmar, with a commitment to responsible innovation, data-driven decision-making, and social impact.
