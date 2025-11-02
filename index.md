@@ -74,6 +74,15 @@ Created a lightweight, modular Burmese-English tokenization tool.
 
 ---
 
+### 🔵 [Deep Learning Portfolio Projects](https://github.com/Nuwai/Intro-to-Deep-Learning)
+> **Neural Networks | CNN | RNN | Model Evaluation**
+
+Completed a comprehensive deep learning course with practical projects applying theory to real-world tasks.  
+- Built multiple models including **image classification**, **digit recognition**, and **sentiment analysis**  
+- Designed end-to-end training pipelines: preprocessing → training → evaluation  
+- Gained experience with **hyperparameter tuning, model optimization, and visualization**  
+**Key Tools:** TensorFlow, Keras, Python, CNN, RNN, Neural Networks  
+
 ## 🌱 Currently Exploring
 
 - **Deep Learning & Edge AI** — learning through the book  
