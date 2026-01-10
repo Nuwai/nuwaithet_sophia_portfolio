@@ -16,6 +16,12 @@ bundle exec jekyll serve
 
 Then open `http://localhost:4000`.
 
+Note: the site uses a `baseurl` for GitHub Pages. For local preview without the prefix, run:
+
+```bash
+bundle exec jekyll serve --baseurl ""
+```
+
 ## Edit content
 - Main pages: `index.html`, `about.html`, `projects.html`
 - Layout and shared UI: `_layouts/default.html`, `_includes/navbar.html`, `_includes/footer.html`

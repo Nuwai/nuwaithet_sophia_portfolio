@@ -1,7 +1,7 @@
 title: "Nu Wai Thet (Sophia)"
 description: "Data Scientist and ML Engineer specializing in NLP, analytics, and deployment."
-url: "https://nuwai.github.io/nuwaithet_sophia_portfolio"
-baseurl: ""
+url: "https://nuwai.github.io"
+baseurl: "/nuwaithet_sophia_portfolio"
 author:
   name: "Nu Wai Thet (Sophia)"
   email: "nuwaithet@gmail.com"
