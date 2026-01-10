@@ -1,13 +1,14 @@
 title: "Nu Wai Thet (Sophia)"
-description: "Data Scientist | ML Engineer | NLP | AI"
-theme: minima
+description: "Data Scientist and ML Engineer specializing in NLP, analytics, and deployment."
+url: "https://nuwai.github.io/nuwaithet_sophia_portfolio"
+baseurl: ""
 author:
   name: "Nu Wai Thet (Sophia)"
   email: "nuwaithet@gmail.com"
-  github: "Nuwai"
+  github: "https://github.com/Nuwai"
   linkedin: "https://www.linkedin.com/in/nuwai-thet-sophia/"
 markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-show_excerpts: true
+show_excerpts: false

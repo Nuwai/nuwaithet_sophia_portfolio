@@ -1,27 +1,27 @@
+# Nu Wai Thet (Sophia) - Portfolio
 
-🌟 **Nu Wai Thet (Sophia) — Data Scientist | ML Engineer | NLP | Deep Learning | Transformers**
+Data Scientist and ML Engineer focused on NLP for Burmese, analytics, and production ML systems.
 
-👋 Welcome to my portfolio — a showcase of my Machine Learning, NLP, and Data Analytics projects focused on AI for social impact and low-resource language technologies.
+- Home: https://nuwai.github.io/nuwaithet_sophia_portfolio/
+- Projects: https://nuwai.github.io/nuwaithet_sophia_portfolio/projects.html
+- About: https://nuwai.github.io/nuwaithet_sophia_portfolio/about.html
 
-### Explore My Work:
-🔹 📊 Featured Projects : https://nuwai.github.io/nuwaithet_sophia_portfolio/projects.html
-  - End-to-end ML systems, NLP pipelines, and Power BI dashboards
- 
-🔹 👩‍💻 About ME : https://nuwai.github.io/nuwaithet_sophia_portfolio/about.html
-  - My background, skills, and current learning journey
+## Run locally
+The site uses Jekyll (compatible with GitHub Pages). After installing Ruby and Bundler:
 
-### 💡 Areas of Focus:
+```bash
+bundle install
+bundle exec jekyll serve
+```
 
-- NLP (Tokenizer, NER, Text Classification)
-- Computer Vision
-- Machine Learning & Deep Learning
-- MLOps, Automation, and Deployment
-- Data Analytics & Visualization for Policy and Social Research
+Then open `http://localhost:4000`.
 
-### 🎯 Goal:
-Building scalable, ethical AI systems that empower local innovation and social progress in Myanmar and globally beyond.
+## Edit content
+- Main pages: `index.html`, `about.html`, `projects.html`
+- Layout and shared UI: `_layouts/default.html`, `_includes/navbar.html`, `_includes/footer.html`
+- Styles and scripts: `assets/css/main.css`, `assets/js/main.js`
 
-📫 Connect:
- | GitHub : https://github.com/Nuwai/
- | LinkedIn : https://www.linkedin.com/in/nuwai-thet-sophia/
- | Email : nuwaithet@gmail.com
+## Connect
+- GitHub: https://github.com/Nuwai
+- LinkedIn: https://www.linkedin.com/in/nuwai-thet-sophia/
+- Email: nuwaithet@gmail.com

@@ -1,0 +1,36 @@
+{% assign current = page.url | downcase %}
+<header class="site-header" data-site-header>
+  <div class="container nav-shell">
+    <a class="brand" href="{{ '/' | relative_url }}">
+      <span class="brand-mark">NW</span>
+      <span class="brand-text">
+        <span class="brand-name">Nu Wai Thet (Sophia)</span>
+        <span class="brand-role">Data Scientist and ML Engineer</span>
+      </span>
+    </a>
+
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav" data-nav-toggle>
+      <span class="sr-only">Toggle menu</span>
+      <span class="nav-toggle-line"></span>
+      <span class="nav-toggle-line"></span>
+      <span class="nav-toggle-line"></span>
+    </button>
+
+    <nav class="site-nav" id="site-nav" data-nav-menu aria-label="Primary">
+      <div class="nav-links">
+        <a class="nav-link{% if current == '/' %} is-active{% endif %}" href="{{ '/' | relative_url }}">Home</a>
+        <a class="nav-link{% if current contains 'about' %} is-active{% endif %}" href="{{ '/about.html' | relative_url }}">About</a>
+        <a class="nav-link{% if current contains 'projects' %} is-active{% endif %}" href="{{ '/projects.html' | relative_url }}">Projects</a>
+        <a class="nav-link" href="{{ '/' | relative_url }}#contact">Contact</a>
+      </div>
+      <div class="nav-actions">
+        <a class="btn btn-ghost" href="mailto:{{ site.author.email }}">Email</a>
+        <a class="btn btn-primary" href="{{ site.author.linkedin }}" target="_blank" rel="noopener">LinkedIn</a>
+        <button class="theme-toggle" type="button" data-theme-toggle aria-pressed="false">
+          <span class="theme-icon" aria-hidden="true"></span>
+          <span class="theme-label">Theme</span>
+        </button>
+      </div>
+    </nav>
+  </div>
+</header>
