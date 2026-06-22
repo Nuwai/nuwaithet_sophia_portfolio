@@ -452,6 +452,15 @@ h3 {
   transform: translateY(-2px);
 }
 
+.credential-card img {
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  object-fit: contain;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+}
+
 .card-header {
   display: flex;
   align-items: center;
